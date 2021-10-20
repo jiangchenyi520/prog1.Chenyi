@@ -2,7 +2,8 @@
 //Autor: Chenyi Jiang 
 //Fecha: 30-09-2021
 //Descripción: Decir si un número es positivo o negativo 
-
+//----------------------------
+//----------------------------
 #include <iostream>
 using namespace std; 
 
@@ -14,7 +15,8 @@ bool esPositivo(int x){ //Se define la función booleana
         return false;
     }
 }
-
+//----------------------------
+//----------------------------
 int main(){
 
     if(esPositivo(-3)== true){ 
