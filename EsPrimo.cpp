@@ -37,7 +37,7 @@ bool esPrimo (int num){
 
 //------------------------------------
 
-//Llamamo a bool esPrimo con el maim
+//Llamamos a bool esPrimo con el maim
 int main (){
    int a = esPrimo(3); //prueba automatica con el 3
     //cout<<"Ingrese numero"<<endl;
